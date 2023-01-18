@@ -1,6 +1,7 @@
 # MZI_KR1
 
-Installation
-$ bundle
+# Installation
+   $ bundle
 
-Usage
+# Usage
+Minitest
